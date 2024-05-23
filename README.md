@@ -45,7 +45,7 @@ especially LSTM model works very well with 99.16% accuracy with
 loss function gradually decreasing.
 
 • But at last with knowledge we gained from literature survey Transformers Models
-are tailor made for this task, with inclusion of Bidirection encoder Representation 
+are tailor made for this task, with inclusion of Bidirection encoder Representation 
 from Transformers (BERT) 96.53% accuracy.
 
 The short comings of this research are the usage of BERT base model.
